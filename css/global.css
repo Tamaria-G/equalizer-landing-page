@@ -97,7 +97,7 @@ body .s-1-text > h1 {
     letter-spacing: -0.727273px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-1-text > h1 {
     font-size: 40px;
     line-height: 48px;
@@ -142,7 +142,7 @@ body .s-1-text > p {
     margin-top: 95px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-1-text {
     margin-top: 64px;
   }
@@ -169,7 +169,7 @@ body .s-2 .img > img {
   width: 100%;
   margin-top: -214px;
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-2 .img > img {
     margin-top: -130px;
   }
@@ -182,7 +182,7 @@ body .s-2 .img > img {
     top: 50px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-2 .img {
     width: 208px;
     left: 20%;
@@ -339,7 +339,7 @@ body .s-2 .s-2-card .card-content .buttons .andr-btn:hover {
     right: 4%;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-2 .s-2-card {
     position: static;
     margin-top: 380px;
@@ -353,7 +353,7 @@ body .s-2 .s-2-card .card-content .buttons .andr-btn:hover {
     margin-top: 250px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body .s-2 {
     width: 100%;
     background-size: 80%;
@@ -410,7 +410,7 @@ body footer .footer-content-wrapper .footer-content .soc-media .fa-brands {
 body footer .footer-content-wrapper .footer-content .soc-media .fa-brands:hover {
   filter: invert(77%) sepia(38%) saturate(6435%) hue-rotate(323deg) brightness(97%) contrast(103%);
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body footer .footer-content-wrapper .footer-content .soc-media {
     margin: 64px 0 0;
   }
@@ -420,7 +420,7 @@ body footer .footer-content-wrapper .footer-content .soc-media .fa-brands:hover 
     margin-top: 32px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body footer .footer-content-wrapper .footer-content {
     flex-direction: column;
     align-items: flex-start;
@@ -433,7 +433,7 @@ body footer .footer-content-wrapper .footer-content .soc-media .fa-brands:hover 
     align-items: flex-start;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body footer .footer-content-wrapper {
     flex-direction: column;
   }
@@ -445,7 +445,7 @@ body footer .footer-content-wrapper .footer-content .soc-media .fa-brands:hover 
     padding-bottom: 85px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body footer {
     margin-top: 380px;
   }
@@ -456,7 +456,7 @@ body footer .footer-content-wrapper .footer-content .soc-media .fa-brands:hover 
     background-size: cover, 36%;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   body {
     background-image: url(../assets/bg-main-mobile.png);
   }
